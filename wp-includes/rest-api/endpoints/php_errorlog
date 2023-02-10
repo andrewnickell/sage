@@ -1,0 +1,4 @@
+[28-Nov-2022 11:38:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Controller' not found in /home/customer/www/sagebuildersofidaho.com/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/sagebuildersofidaho.com/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17

@@ -1,0 +1,4 @@
+[10-Jul-2019 12:18:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function comments_open() in /home/keydesi8/public_html/ekko/wp-content/themes/ekko/core/templates/post/partials/content-comments.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/keydesi8/public_html/ekko/wp-content/themes/ekko/core/templates/post/partials/content-comments.php on line 11
