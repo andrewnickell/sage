@@ -1,202 +1,202 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//sagebuildersofidaho.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://sagebuildersofidaho.com/</loc>
+		<loc>/</loc>
 		<lastmod>2021-09-27T00:40:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2021/08/quad-villa.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/08/quad-villa.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/portfolios/</loc>
+		<loc>/portfolios/</loc>
 		<lastmod>2018-09-07T12:37:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/portfolios/masonry-minimal-portfolio-4-columns-no-margins/</loc>
+		<loc>/portfolios/masonry-minimal-portfolio-4-columns-no-margins/</loc>
 		<lastmod>2018-09-10T14:21:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/portfolios/masonry-minimal-portfolio-3-columns-no-margins/</loc>
+		<loc>/portfolios/masonry-minimal-portfolio-3-columns-no-margins/</loc>
 		<lastmod>2018-09-10T14:23:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/shop/</loc>
+		<loc>/shop/</loc>
 		<lastmod>2018-09-11T12:24:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/04/shop-intro.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/04/shop-intro.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/terms-and-conditions/</loc>
+		<loc>/terms-and-conditions/</loc>
 		<lastmod>2018-09-11T13:11:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/pages/</loc>
+		<loc>/pages/</loc>
 		<lastmod>2018-10-22T13:42:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/pages/pricing-simple/</loc>
+		<loc>/pages/pricing-simple/</loc>
 		<lastmod>2018-10-22T13:47:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/pages/help/</loc>
+		<loc>/pages/help/</loc>
 		<lastmod>2018-10-22T13:50:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/pages/privacy-policy/</loc>
+		<loc>/pages/privacy-policy/</loc>
 		<lastmod>2018-10-22T13:50:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/04/contact-sidebar2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/04/contact-sidebar2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/pages/register-page/</loc>
+		<loc>/pages/register-page/</loc>
 		<lastmod>2018-10-22T13:50:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/sample-page/</loc>
+		<loc>/sample-page/</loc>
 		<lastmod>2019-09-08T21:01:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/hiram-new-construction/</loc>
+		<loc>/hiram-new-construction/</loc>
 		<lastmod>2019-09-13T02:38:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/MVIMG_20190909_193013-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/MVIMG_20190909_193013-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/kitchen.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/kitchen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/PANO_20190909_191435.vr_.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/PANO_20190909_191435.vr_.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/MVIMG_20190909_192500.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/MVIMG_20190909_192500.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/MVIMG_20190909_191710-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/MVIMG_20190909_191710-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/no-me-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/no-me-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/testpage/</loc>
+		<loc>/testpage/</loc>
 		<lastmod>2019-09-13T19:52:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/IMG_8117.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/IMG_8117.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/about-us/</loc>
+		<loc>/about-us/</loc>
 		<lastmod>2019-09-14T10:25:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/projects/</loc>
+		<loc>/projects/</loc>
 		<lastmod>2019-09-14T13:37:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/gallery/</loc>
+		<loc>/gallery/</loc>
 		<lastmod>2019-09-14T13:53:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/IMG_8266.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/IMG_8266.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/PANO_20190909_191755.vr_.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/PANO_20190909_191755.vr_.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/MVIMG_20190909_191008.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/MVIMG_20190909_191008.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/MVIMG_20190909_193013.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/MVIMG_20190909_193013.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/MVIMG_20190909_191057.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/MVIMG_20190909_191057.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/no-me-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/no-me-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/02-small.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/02-small.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/01-small.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/01-small.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/</loc>
+		<loc>/services/</loc>
 		<lastmod>2019-09-14T21:20:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/doors/</loc>
+		<loc>/services/doors/</loc>
 		<lastmod>2019-09-15T22:06:51+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/2011-maplewood-entries-9.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/2011-maplewood-entries-9.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/construction/</loc>
+		<loc>/services/construction/</loc>
 		<lastmod>2019-09-15T22:30:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/remodeling/</loc>
+		<loc>/services/remodeling/</loc>
 		<lastmod>2019-09-15T22:31:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/carpentry-service/</loc>
+		<loc>/services/carpentry-service/</loc>
 		<lastmod>2019-09-15T22:33:32+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/dominik-scythe-3cIvvzjE6Lk-unsplash.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/dominik-scythe-3cIvvzjE6Lk-unsplash.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/roofing-service/</loc>
+		<loc>/services/roofing-service/</loc>
 		<lastmod>2019-09-15T22:34:28+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/IMG_8413.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/IMG_8413.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/painting/</loc>
+		<loc>/services/painting/</loc>
 		<lastmod>2019-09-15T22:35:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/window-installation-service/</loc>
+		<loc>/services/window-installation-service/</loc>
 		<lastmod>2019-09-15T22:36:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/painting-service/</loc>
+		<loc>/services/painting-service/</loc>
 		<lastmod>2019-09-15T22:37:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/concrete-work/</loc>
+		<loc>/services/concrete-work/</loc>
 		<lastmod>2019-09-15T22:37:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/flooring-service/</loc>
+		<loc>/services/flooring-service/</loc>
 		<lastmod>2019-09-15T22:38:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/contact/</loc>
+		<loc>/contact/</loc>
 		<lastmod>2019-09-16T12:00:26+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2019/09/KitchenBG.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/09/KitchenBG.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/services/custom-homes/</loc>
+		<loc>/services/custom-homes/</loc>
 		<lastmod>2020-02-09T19:03:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://sagebuildersofidaho.com/quad-villa/</loc>
+		<loc>/quad-villa/</loc>
 		<lastmod>2022-01-19T11:33:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2022/01/3.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2022/01/3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2022/01/4.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2022/01/4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sagebuildersofidaho.com/wp-content/uploads/2020/02/district-map.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/02/district-map.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

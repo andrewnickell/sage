@@ -1347,7 +1347,7 @@ rs-module-wrap {
  .owl-dots.disabled { display: none; }
 
 .grabbing {
-    cursor: url(images/grabbing.png) 8 8, move;
+    cursor: url(/wp-content/themes/ekko/images/grabbing.png) 8 8, move;
 }
 .owl-carousel .owl-wrapper, .owl-carousel .owl-item {
     -webkit-backface-visibility: hidden;
@@ -1648,7 +1648,7 @@ header {
     display: block;
     z-index: 99;
     border-radius: 90px;
-    background-image: url('images/arrow-down.png');
+    background-image: url('/wp-content/themes/ekko/images/arrow-down.png');
     background-repeat: no-repeat;
     background-position: center 26px;
     -webkit-transition: 0.25s;
@@ -6035,7 +6035,7 @@ blockquote cite {
     width: 55px;
     margin: auto;
     height: 18px;
-    background: url(images/hover-arrow.png);
+    background: url(/wp-content/themes/ekko/images/hover-arrow.png);
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
@@ -6942,11 +6942,11 @@ footer.underline-effect .footer_widget ul li.cat-item a:hover:after,
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background: #f5f5f5 url(core/assets/images/icons/select-arrow.png) 95% center no-repeat!important;
+    background: #f5f5f5 url(/wp-content/themes/ekko/core/assets/images/icons/select-arrow.png) 95% center no-repeat!important;
 }
 
 .kd-contact-form.white-input-bg .wpcf7-select  {
-    background: #fff url(core/assets/images/icons/select-arrow.png) 95% center no-repeat!important;
+    background: #fff url(/wp-content/themes/ekko/core/assets/images/icons/select-arrow.png) 95% center no-repeat!important;
 }
 
 
@@ -9472,7 +9472,7 @@ div.wpcf7 .wpcf7-form .ajax-loader {
     margin: 0;
     width: 28px;
     height: 7px;
-    background-image: url(core/assets/images/contact-loader.svg)!important;
+    background-image: url(/wp-content/themes/ekko/core/assets/images/contact-loader.svg)!important;
     background-size: 100%!important;
     border-radius: 0px;
     box-sizing: content-box;
